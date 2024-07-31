@@ -10,5 +10,9 @@ void main() {
   double altura = 1.70;
   print(altura);
 
-  
+  /* Variáveis do tipo boolean */
+
+  bool geek = (idade == altura);
+  print(geek);
+
 }
