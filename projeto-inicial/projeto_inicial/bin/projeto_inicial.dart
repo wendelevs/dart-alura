@@ -44,4 +44,9 @@ void main() {
   String num4_String = num4.toString();
   print('int $num4 para String $num4_String');
 
+  /* Uso de listas */
+
+  List<String> listanomes = ['Ricarth', 'Natália', 'Alex', 'Ândriu', 'André'];
+
+  print(listanomes.length);
 }

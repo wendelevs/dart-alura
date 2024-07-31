@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Dart Tests",
+            "program": "test",
+            "cwd": "projeto-inicial\\projeto_inicial",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
