@@ -47,6 +47,8 @@ void main() {
   /* Uso de listas */
 
   List<String> listanomes = ['Ricarth', 'Natália', 'Alex', 'Ândriu', 'André'];
-
   print(listanomes.length);
+
+  List<dynamic> Wendel = [27, 1.70, true, 'Wendel'];
+  print('Eu sou ${Wendel[3]}');
 }
