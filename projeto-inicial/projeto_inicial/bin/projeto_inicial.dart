@@ -1,3 +1,9 @@
 void main() {
-  print('Olá Mundo!');
+
+  /* Variáveis do tipo inteiro */
+  
+  int idade = 20;
+  print(idade);
+
+
 }
