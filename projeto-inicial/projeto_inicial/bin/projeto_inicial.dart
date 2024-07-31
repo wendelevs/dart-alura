@@ -12,7 +12,11 @@ void main() {
 
   /* Variáveis do tipo boolean */
 
-  bool geek = (idade == altura);
+  bool geek = true;
   print(geek);
 
+  /* Variáveis do tipo string */
+
+  String nome = 'Wendel';
+  print(nome);
 }
